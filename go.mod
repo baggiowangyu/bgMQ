@@ -1,4 +1,4 @@
-module bgMQ
+module bgmq
 
 require (
 	github.com/gogf/gf v1.16.6
